@@ -1,4 +1,8 @@
-#costo_biglietto{
+#costo_biglietto {
     text-align: center;
     padding: 50px;
+}
+
+h2 {
+    color: green;
 }
